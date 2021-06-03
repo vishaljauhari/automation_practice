@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QualiTest Automated Tests" preserve-order="true">
+
+    <test name="Login Test">
+        <classes>
+            <class name="com.test.vishal.runners.ProductPurchaseAndProfileUpdateTestRunner"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+app_url: http://automationpractice.com/index.php
+
+browser: chrome
+
+timeout: 60
+
+email: vishaljauhari40@gmail.com
+
+password: Visknp123
